@@ -1,6 +1,6 @@
 ---
 title: "SKY Portfolio 1"
-excerpt: "sample tset
+excerpt: "sample tset How fast you can do
           SKY
           SKY <br/><img src='/images/500x300.png'>"
 collection: portfolio
